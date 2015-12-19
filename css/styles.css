@@ -1,0 +1,33 @@
+ul.nav {
+	list-style: none;
+	padding: 0; 
+
+} 
+
+ul.nav li {
+	display: inline; 
+}
+
+nav a {
+	padding: 8px;
+	font-family: "Arial";
+	font-size: 12pt;
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #196666;
+}
+
+nav {
+	background-color: #2eb8b8;
+	padding: .2em;
+	text-align: center;
+}
+
+.content {
+	background-color: green;
+	height: 500px;
+	width: auto;
+	background-color: #f2e6d9;
