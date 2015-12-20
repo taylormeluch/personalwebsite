@@ -24,13 +24,16 @@ nav {
 	background-color: #2eb8b8;
 	padding: .2em;
 	text-align: center;
-	
+
 }
 
 .content {
-	height: 500px;
 	width: auto;
 	background-color: #f2e6d9;
+	text-align: center;
+	margin: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .social-media {
@@ -39,4 +42,19 @@ nav {
 	top: 100px;
 	background-color: #f9f2ec;
 	padding: 25px;
+}
+
+h1 {
+	font-family: "Arial";
+	font-size: 36px;
+	font-weight: bold;
+}
+
+p {
+ text-align: center;
+ font-family: "Arial"
+}
+
+.paddedtext {
+	padding: 0px 250px;
 }
